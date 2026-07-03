@@ -13,7 +13,7 @@
 
 <header>
     <h1>Bienvenue !</h1>
-    <p>Mon premier site hébergé sur GitHub Pages.</p>
+    <p>bienvenue chez adgencie.Au plaisir de faire affaire avec vous!</p>
 </header>
 
 <section>
