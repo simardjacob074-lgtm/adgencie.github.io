@@ -18,7 +18,7 @@
 
 <section>
     <h2>À propos</h2>
-    <p>Je suis en train d'apprendre à créer des sites web.</p>
+    <p>Adgencie est une agence publicitaire pour les marques, les applications et pour les produits digitals.</p>
 
     <button id="btn">Clique-moi</button>
 
